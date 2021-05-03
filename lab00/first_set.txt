@@ -1,3 +1,4 @@
+Show file permissions for all files in a directory
 Move files from one directory to the next
 Change a file’s permissions
 Show the directory you’re currently in

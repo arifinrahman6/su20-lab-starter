@@ -1,8 +1,9 @@
-1. mv SRC DEST
-2. chmod <+/-><rwx> FILENAME
-3. pwd
-4. ping $HOST
-5. find -exec grep 'KEYWORD'
-6. ps
-7. kill SIGNAL PID
-8. diff FILE1 FILE2
+1. ls -l
+2. mv SRC DEST
+3. chmod <+/-><rwx> FILENAME
+4. pwd
+5. ping $HOST
+6. find -exec grep 'KEYWORD'
+7. ps
+8. kill SIGNAL PID
+9. diff FILE1 FILE2
