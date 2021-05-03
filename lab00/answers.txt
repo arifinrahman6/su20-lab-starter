@@ -1,4 +1,4 @@
-1.
-2.
-3.
-4.
+1. find -exec grep 'KEYWORD'
+2. ps
+3. kill SIGNAL PID
+4. diff FILE1 FILE2
